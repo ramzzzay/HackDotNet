@@ -1,5 +1,5 @@
 ﻿/*
-Thx to ForNeVeR for idea and base implementation & nagg for jokes =)
+Thx to Friedrich von Never@ForNeVeR for idea and base implementation & Egor Bogatov@nagg for jokes =)
 "(3:15:31 PM) nagg: Не дай бог придет такой наркоман на собес, ты у него спросишь чем отличается статик от не статик - а он: пфф... ничем. и у того и у того можно инстанс взять"
 */
 using System;
